@@ -10,5 +10,5 @@ window.APP_CONFIG = {
   supportEmail: "swiftdevco@proton.me",
   appStoreUrl: "#",
   primaryColor: "#2f9bff",
-  updatedAt: "October 25, 2026"
+  updatedAt: "November 26, 2026"
 };
